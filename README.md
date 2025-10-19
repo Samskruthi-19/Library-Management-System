@@ -1,2 +1,2 @@
 # Library-Management-System
-A Java console app for managing books using MySQL (JDBC).
+Developed a console-based application to manage books in a library. Implemented features like adding books, issuing books, and returning books using Java and MySQL (via JDBC).
